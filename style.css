@@ -38,11 +38,18 @@ body {
   top: 20px;
 }
 
+.happy-woman-day-day {
+  color: white;
+  font-size: 40px;
+  position: fixed;
+  top: 60px;
+}
+
 .happy-woman-day-name {
   color: white;
   font-size: 50px;
   position: fixed;
-  top: 80px;
+  top: 100px;
 }
 
 .flowers {
